@@ -1,5 +1,5 @@
 # When Was the Golden Age of Video Games? (Guided by DataCamp)
-*Within this project, my analysis focus on video game critic and user scores and sales data for top 400 video games released since 1977. My goal is to determine the potential golden ages of video games by pinpointing release years that received high praise from both users and critics. 
+*Within this project, my analysis focus on video game critic and user scores and sales data for top 400 video games released since 1977. My goal is to determine the potential golden ages of video games by pinpointing release years that received high praise from both users and critics.* 
 ## Questions to address:
 1. Which year recieved high acclaim from video game critics?
 2. Which year experienced a drop in favorability among critics?
