@@ -13,4 +13,7 @@
 ## Dataset:
 The data in this project is collected from [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata)
 ## Data Visualization:
+
+<img width="692" alt="videogamesReportpage" src="https://github.com/maiiduong/When-Was-the-Golden-Age-of-Video-Games-/assets/126304438/5bba807a-6eaf-4ab5-8fb9-0e91ff168f20">
+
 The data visualization is made by myself using Power BI
