@@ -12,3 +12,5 @@
 3. Set theory: EXCEPT, INTERSECT
 ## Dataset:
 The data in this project is collected from [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata)
+## Data Visualization;
+The data visualization is made by myself using Power BI
